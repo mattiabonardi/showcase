@@ -1,6 +1,6 @@
 import Button from "@mui/material/Button";
 import type { NextPage } from "next";
-import Header from "../components/Header";
+import Header from "../components/header";
 
 const Home: NextPage = () => {
   return (
